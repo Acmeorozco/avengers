@@ -1,38 +1,48 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Generar un reporte para ayudarnos a mejorar
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+Aquí tienes la traducción al español, manteniendo el formato típico que se utiliza en repositorios de código (como GitHub):
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+---
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Descripción del error**
+Una descripción clara y concisa de lo que es el error.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Pasos para reproducir**
+Pasos para reproducir el comportamiento:
+1. Ve a '...'
+2. Haz clic en '....'
+3. Desplázate hacia abajo hasta '....'
+4. Ver el error
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Comportamiento esperado**
+Una descripción clara y concisa de lo que esperabas que sucediera.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Capturas de pantalla**
+Si aplica, añade capturas de pantalla para ayudar a explicar tu problema.
 
-**Additional context**
-Add any other context about the problem here.
+**Escritorio (por favor, completa la siguiente información):**
+* **SO:** [ej. Windows, macOS]
+* **Navegador:** [ej. Chrome, Safari]
+* **Versión:** [ej. 22]
+
+**Smartphone (por favor, completa la siguiente información):**
+* **Dispositivo:** [ej. iPhone 15]
+* **SO:** [ej. iOS 17.4]
+* **Navegador:** [ej. Navegador predeterminado, Safari]
+* **Versión:** [ej. 22]
+
+**Contexto adicional**
+Añade aquí cualquier otro contexto sobre el problema.
+
+---
+### Un par de notas útiles:
+* **"Bug":** Aunque en español técnico se usa mucho "Bug", la traducción formal es **"Error"** o **"Fallo"**.
+* **"Stock browser":** Se refiere al **"Navegador predeterminado"** que viene de fábrica en el teléfono.
+* **"OS":** Son las siglas de *Operating System*, que en español es **SO** (*Sistema Operativo*).
