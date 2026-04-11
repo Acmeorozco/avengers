@@ -6,13 +6,13 @@ labels: ''
 assignees: ''
 
 ---
-
-Aquí tienes la traducción al español, manteniendo el formato típico que se utiliza en repositorios de código (como GitHub):
-
 ---
-
 **Descripción del error**
 Una descripción clara y concisa de lo que es el error.
+
+**Comportamiento actual**
+Una descripción clara y concisa de lo que sucede actualmente.
+
 
 **Pasos para reproducir**
 Pasos para reproducir el comportamiento:
